@@ -51,7 +51,8 @@ http://www.templatemo.com/tm-509-hydro
                     <ul class="nav navbar-nav navbar-nav-first">
                          <li><a href="#home" class="smoothScroll">Home</a></li>
                          <li><a href="#about" class="smoothScroll">About</a></li>
-                         <li><a href="#blog" class="smoothScroll">Blog</a></li>
+                          <li><a href="blog/index.html" target="_blank" class="smoothScroll">Blog</a></li>
+                         <li><a href="#memes" class="smoothScroll">Funny Memes</a></li>
                          <li><a href="#work" class="smoothScroll">Projects</a></li>
                          <li><a href="#contact" class="smoothScroll">Contact</a></li>
                     </ul>
@@ -60,7 +61,7 @@ http://www.templatemo.com/tm-509-hydro
                          <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                         <li class="section-btn"><a href="#" data-toggle="modal" data-target="#modal-form">Sign in / Join</a></li>
+                         <li class="section-btn"><a href="#" data-toggle="modal" data-target="#modal-form">Twitter</a></li>
                     </ul>
                </div>
 
@@ -88,7 +89,7 @@ http://www.templatemo.com/tm-509-hydro
                     <div class="col-md-6 col-sm-12">
                          <div class="home-video">
                               <div class="embed-responsive embed-responsive-16by9">
-                                   <iframe src="https://www.youtube.com/embed/XmZKtRT8uZw" frameborder="0" allowfullscreen></iframe>
+                                   <iframe src="https://www.youtube.com/embed/Dv7gLpW91DM" frameborder="0" allowfullscreen></iframe>
                               </div>
                          </div>
                     </div>
@@ -106,7 +107,7 @@ http://www.templatemo.com/tm-509-hydro
                     <div class="col-md-5 col-sm-6">
                          <div class="about-info">
                               <div class="section-title">
-                                   <h2>Let us introduce</h2>
+                                   <h2>Intro about me</h2>
                                    <span class="line-bar">...</span>
                               </div>
                               <p>Am Passionate about developing information system tailored to solve the problems people face</p>
@@ -123,19 +124,19 @@ http://www.templatemo.com/tm-509-hydro
                                              <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
                                         </div>
 
-                              <strong>Photography</strong>
+                              <strong>IBM Watson Chatbot</strong>
                                    <span class="pull-right">90%</span>
                                         <div class="progress">
                                              <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
                                         </div>
 
-                              <strong>Content Marketing</strong>
+                              <strong>Blogger</strong>
                                    <span class="pull-right">75%</span>
                                         <div class="progress">
                                              <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
                                         </div>
 
-                              <strong>CMS Admin</strong>
+                              <strong>Developer</strong>
                                    <span class="pull-right">70%</span>
                                         <div class="progress">
                                              <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
@@ -146,7 +147,7 @@ http://www.templatemo.com/tm-509-hydro
 
                     <div class="col-md-4 col-sm-12">
                          <div class="about-image">
-                              <img src="images/about-image.jpeg" class="img-responsive" alt="">
+                              <img src="images/about-image.jpeg" class="img-responsive" alt="Ifeanyi Ojo">
                          </div>
                     </div>
                     
@@ -156,77 +157,21 @@ http://www.templatemo.com/tm-509-hydro
 
 
      <!-- BLOG -->
-     <section id="blog" data-stellar-background-ratio="0.5">
+     <section id="memes" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h2>Our Blog</h2>
+                              <h2>Funny Memes</h2>
                               <span class="line-bar">...</span>
                          </div>
                     </div>
-
-                    <div class="col-md-6 col-sm-6">
-                         <!-- BLOG THUMB -->
-                         <div class="media blog-thumb">
-                              <div class="media-object media-left">
-                                   <a href="blog-detail.html"><img src="images/blog-image1.jpg" class="img-responsive" alt=""></a>
-                              </div>
-                              <div class="media-body blog-info">
-                                   <small><i class="fa fa-clock-o"></i> December 22, 2017</small>
-                                   <h3><a href="blog-detail.html">How To Find Out Beautiful Workspace.</a></h3>
-                                   <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis.</p>
-                                   <a href="blog-detail.html" class="btn section-btn">Read article</a>
-                              </div>
+                         <div >
+                    <img src="memes/1.jpeg"  alt="" style="max-width:100%;height:auto;">
+                    <img src="memes/2.JPG" alt="" style="max-width:100%;height:auto;">
                          </div>
-                    </div>
 
-                    <div class="col-md-6 col-sm-6">
-                         <!-- BLOG THUMB -->
-                         <div class="media blog-thumb">
-                              <div class="media-object media-left">
-                                   <a href="blog-detail.html"><img src="images/blog-image2.jpg" class="img-responsive" alt=""></a>
-                              </div>
-                              <div class="media-body blog-info">
-                                   <small><i class="fa fa-clock-o"></i> December 18, 2017</small>
-                                   <h3><a href="blog-detail.html">woman sportwear.</a></h3>
-                                   <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis.</p>
-                                   <a href="blog-detail.html" class="btn section-btn">Read more</a>
-                              </div>
-                         </div>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                         <!-- BLOG THUMB -->
-                         <div class="media blog-thumb">
-                              <div class="media-object media-left">
-                                   <a href="blog-detail.html"><img src="images/blog-image3.jpg" class="img-responsive" alt=""></a>
-                              </div>
-                              <div class="media-body blog-info">
-                                   <small><i class="fa fa-clock-o"></i> December 14, 2017</small>
-                                   <h3><a href="blog-detail.html">new creative fashion.</a></h3>
-                                   <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis.</p>
-                                   <a href="blog-detail.html" class="btn section-btn">Read article</a>
-                              </div>
-                         </div>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                         <!-- BLOG THUMB -->
-                         <div class="media blog-thumb">
-                              <div class="media-object media-left">
-                                   <a href="blog-detail.html"><img src="images/blog-image4.jpg" class="img-responsive" alt=""></a>
-                              </div>
-                              <div class="media-body blog-info">
-                                   <small><i class="fa fa-clock-o"></i> December 10, 2017</small>
-                                   <h3><a href="blog-detail.html">minimalist design trend in 2018.</a></h3>
-                                   <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis.</p>
-                                   <a href="blog-detail.html" class="btn section-btn">View Detail</a>
-                              </div>
-                         </div>
-                    </div>
-                    
                </div>
           </div>
      </section>
@@ -239,66 +184,14 @@ http://www.templatemo.com/tm-509-hydro
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h2>Our work</h2>
+                              <h2>My Projects</h2>
                               <span class="line-bar">...</span>
                          </div>
                     </div>
 
-                    <div class="col-md-3 col-sm-6">
-                         <!-- WORK THUMB -->
-                         <div class="work-thumb">
-                              <a href="images/work-image1.jpg" class="image-popup">
-                                   <img src="images/work-image1.jpg" class="img-responsive" alt="Work">
+                         <P> Please Check Back </P>
+                    <!-- PROJECTS GOES HERE-->
 
-                                   <div class="work-info">
-                                        <h3>Clean &amp; Minimal</h3>
-                                        <small>Product Design</small>
-                                   </div>
-                              </a>
-                         </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6">
-                         <!-- WORK THUMB -->
-                         <div class="work-thumb">
-                              <a href="images/work-image2.jpg" class="image-popup">
-                                   <img src="images/work-image2.jpg" class="img-responsive" alt="Work">
-
-                                   <div class="work-info">
-                                        <h3>Studio Bag</h3>
-                                        <small>Branding</small>
-                                   </div>
-                              </a>
-                         </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6">
-                         <!-- WORK THUMB -->
-                         <div class="work-thumb">
-                              <a href="images/work-image3.jpg" class="image-popup">
-                                   <img src="images/work-image3.jpg" class="img-responsive" alt="Work">
-
-                                   <div class="work-info">
-                                        <h3>Frame Design</h3>
-                                        <small>Photography</small>
-                                   </div>
-                              </a>
-                         </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6">
-                         <!-- WORK THUMB -->
-                         <div class="work-thumb">
-                              <a href="images/work-image4.jpg" class="image-popup">
-                                   <img src="images/work-image4.jpg" class="img-responsive" alt="Work">
-
-                                   <div class="work-info">
-                                        <h3>Paint Work</h3>
-                                        <small>Art, Design</small>
-                                   </div>
-                              </a>
-                         </div>
-                    </div>
 
                </div>
           </div>
@@ -311,7 +204,7 @@ http://www.templatemo.com/tm-509-hydro
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h2>Contact us</h2>
+                              <h2>Reach me</h2>
                               <span class="line-bar">...</span>
                          </div>
                     </div>
@@ -333,15 +226,7 @@ http://www.templatemo.com/tm-509-hydro
                               </div>
 
                               <div class="col-md-6 col-sm-6">
-                                   <select class="form-control" id="cf-budgets" name="cf-budgets">
-                                        <option>Budget Level</option>
-                                        <option>$500 to $1,000</option>
-                                        <option>$1,000 to $2,200</option>
-                                        <option>$2,200 to $4,500</option>
-                                        <option>$4,500 to $7,500</option>
-                                        <option>$7,500 to $12,000</option>
-                                        <option>$12,000 or more</option>
-                                   </select>
+                                   <input type="subject" class="form-control" placeholder="What's your Subject" id="cf-subject" name="cf-subject" required="">
                               </div>
 
                               <div class="col-md-12 col-sm-12">
@@ -357,13 +242,13 @@ http://www.templatemo.com/tm-509-hydro
 
                     <div class="col-md-4 col-sm-4">
                          <div class="google-map">
-	<!-- How to change your own map point
+     <!-- How to change your own map point
             1. Go to Google Maps
             2. Click on your location point
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
-	-->
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" allowfullscreen></iframe>
+     -->
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31805.682182044467!2d7.0312472!3d4.8197286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1069cc546ecb79bd%3A0x530b806fbd2b96c1!2sPort+Harcourt+Zoo!5e0!3m2!1sen!2sng!4v1524361988191" allowfullscreen></iframe>
                          </div>
                     </div>
 
@@ -379,38 +264,45 @@ http://www.templatemo.com/tm-509-hydro
 
                     <div class="col-md-5 col-sm-12">
                          <div class="footer-thumb footer-info"> 
-                              <h2>Hydro Company</h2>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                              <h2>My Quote</h2>
+                              <p>Being Content Creates Simplicity in Life. - John Hieder</p>
                          </div>
                     </div>
 
                     <div class="col-md-2 col-sm-4"> 
                          <div class="footer-thumb"> 
-                              <h2>Company</h2>
+                              <h2>Test Project</h2>
                               <ul class="footer-link">
-                                   <li><a href="#">About Us</a></li>
-                                   <li><a href="#">Join our team</a></li>
-                                   <li><a href="#">Read Blog</a></li>
-                                   <li><a href="#">Press</a></li>
+                                   <li><a href="http://www.bbspot.cf" target="_blank">Bbspot.cf</a></li>
+                                   
                               </ul>
                          </div>
                     </div>
 
                     <div class="col-md-2 col-sm-4"> 
                          <div class="footer-thumb"> 
-                              <h2>Services</h2>
+                              <h2>Mentors</h2>
                               <ul class="footer-link">
-                                   <li><a href="#">Pricing</a></li>
-                                   <li><a href="#">Documentation</a></li>
-                                   <li><a href="#">Support</a></li>
+                                   <li><a href="#">Favour Ori</a></li>
+                                   <li><a href="#">Steve Nduka</a></li>
+                                   
                               </ul>
                          </div>
                     </div>
 
                     <div class="col-md-3 col-sm-4"> 
                          <div class="footer-thumb"> 
-                              <h2>Find us</h2>
-                              <p>123 Grand Rama IX, <br> Krung Thep Maha Nakhon 10400</p>
+                              <h2>Books read</h2>
+                               <ul class="footer-link">
+                                   <li><a href="#">Stone of Farewell</a></li>
+                                   <li><a href="#">Dragon Drum</a></li>
+                                   <li><a href="#">Sky of Pern</a></li>
+                                   <li><a href="#">The Alchemist</a></li>
+                                   <li><a href="#">Murder in the Family</a></li>
+                                    <li><a href="#">Things Fall Apart</a></li>
+
+                                   
+                              </ul>
                          </div>
                     </div>                    
 
@@ -418,15 +310,15 @@ http://www.templatemo.com/tm-509-hydro
                          <div class="footer-bottom">
                               <div class="col-md-6 col-sm-5">
                                    <div class="copyright-text"> 
-                                        <p>Copyright &copy; 2017 Your Company</p>
+                                        <p>Copyright &copy; 2018 Ifeanyi Ojo</p>
                                    </div>
                               </div>
                               <div class="col-md-6 col-sm-7">
                                    <div class="phone-contact"> 
-                                        <p>Call us <span>(+66) 010-020-0340</span></p>
+                                        <p>Thanks for visiting <span></span></p>
                                    </div>
                                    <ul class="social-icon">
-                                        <li><a href="https://www.facebook.com/templatemo" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                                        <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
                                         <li><a href="#" class="fa fa-twitter"></a></li>
                                         <li><a href="#" class="fa fa-instagram"></a></li>
                                    </ul>
